@@ -1,0 +1,6 @@
+outs:
+- md5: 7772bb30c7d5a629e9068720febb04de.dir
+  size: 1452931921
+  nfiles: 202603
+  hash: md5
+  path: CelebFaces

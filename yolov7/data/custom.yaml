@@ -1,8 +1,0 @@
-train: /home/ubuntu/demo_deneme/HIT-UAV_CAMEL_MONET_runway_combined/train
-#test: /home/vision/Elif/IR_DETECTION/IR_DATASET/TEST_DATASET/monet-test-runway
-val: /home/ubuntu/demo_deneme/HIT-UAV_CAMEL_MONET_runway_combined/val
-#Classes
-nc: 2 # replace according to your number of classes
-#classes names
-#replace all class names list with your classes names
-names: ['person','car']

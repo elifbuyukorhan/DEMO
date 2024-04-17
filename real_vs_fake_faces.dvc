@@ -1,0 +1,6 @@
+outs:
+- md5: f13ff9b180ef0f02818a6f7473ae1af3.dir
+  size: 287810641
+  nfiles: 10002
+  hash: md5
+  path: real_vs_fake_faces

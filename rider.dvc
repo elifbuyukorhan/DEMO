@@ -1,0 +1,6 @@
+outs:
+- md5: 59ab46be532c5d677ce97514e89a0c0b.dir
+  size: 78291817
+  nfiles: 252
+  hash: md5
+  path: rider
